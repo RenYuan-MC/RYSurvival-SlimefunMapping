@@ -1,0 +1,6 @@
+name: TestGeyserExtension
+main: com.github.imdabigboss.templategeyserextension.TemplateGeyserExtension
+api: 2.0.0
+version: 1.0.0
+authors: [ImDaBigBoss]
+startup-phase: "PRE_INITIALIZE"

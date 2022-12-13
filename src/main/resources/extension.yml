@@ -1,6 +1,6 @@
-name: TestGeyserExtension
-main: com.github.imdabigboss.templategeyserextension.TemplateGeyserExtension
-api: 2.0.0
+name: RYSurvival-SlimefunMapping
+main: ltd.rymc.mappings.SlimefunMapping
+api: 1.0.0
 version: 1.0.0
-authors: [ImDaBigBoss]
+authors: [ RENaa_FD ]
 startup-phase: "PRE_INITIALIZE"

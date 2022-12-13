@@ -1,6 +1,6 @@
 name: RYSurvival-SlimefunMapping
 main: ltd.rymc.mappings.SlimefunMapping
 api: 1.0.0
-version: 1.0.0
+version: '${project.version}'
 authors: [ RENaa_FD ]
 startup-phase: "PRE_INITIALIZE"

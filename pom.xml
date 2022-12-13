@@ -17,7 +17,7 @@
     </properties>
 
     <build>
-        <finalName>RenYuan-Core</finalName>
+        <finalName>RYSurvival-SlimefunMapping</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
